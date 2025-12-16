@@ -191,29 +191,4 @@ $ npm install
 $ npm test
 ```
 
-## Contributing
 
-[Contributing Guide](Contributing.md)
-
-## People
-
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
-
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
-
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
-
-## License
-
-  [MIT](LICENSE)
-
-[ci-image]: https://img.shields.io/github/workflow/status/expressjs/express/ci/master.svg?label=linux
-[ci-url]: https://github.com/expressjs/express/actions?query=workflow%3Aci
-[npm-image]: https://img.shields.io/npm/v/express.svg
-[npm-url]: https://npmjs.org/package/express
-[downloads-image]: https://img.shields.io/npm/dm/express.svg
-[downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[appveyor-image]: https://img.shields.io/appveyor/ci/dougwilson/express/master.svg?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
